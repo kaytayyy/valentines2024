@@ -1,0 +1,63 @@
+body {
+    background-color: palevioletred;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    div {
+        text-align: center;
+    }
+    
+    #fourthofjuly {
+        max-width: 250px;
+    }
+    
+    #firstdate {
+        max-width: 250px;
+    }
+    
+    #floatingheart {
+        max-width: 250px;
+    }
+    
+    #ilyheart {
+        max-width: 250px;
+    }
+    
+    #lap {
+        max-width: 250px;
+    }
+    
+    #kisses {
+        max-width: 250px;
+    }
+    
+    #halloween {
+        max-width: 250px;
+    }
+    
+    h4 {
+        text-align: center;
+    }
+    
+    #yes {
+        border: 3px solid;
+        margin-left: 800px;
+        /* width: 50%; */
+        padding: 10px;
+        position: absolute;
+    }
+    
+    #alsoyes {
+        border: 3px solid;
+        margin-left: 1000px;
+        /* width: 50%; */
+        padding: 10px;
+        position: absolute; 
+    }
